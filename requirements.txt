@@ -1,0 +1,7 @@
+streamlit
+gradio
+torch
+transformers
+Pillow
+requests
+python-dotenv
